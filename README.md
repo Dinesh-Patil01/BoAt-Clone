@@ -1,6 +1,6 @@
 # BoAt Lifestyle Clone
 
-This is a clone of `BoAt Lifestyle website` which i created for my `Construct Week Project`.
+This is a clone of `BoAt Lifestyle website` 
 
 
 ## Features
@@ -68,8 +68,6 @@ This is a clone of `BoAt Lifestyle website` which i created for my `Construct We
 
 
 
-### Deadline
-   ### -> 5-Days
   
 
 
